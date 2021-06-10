@@ -1,1 +1,5 @@
 venv/
+processing/.ipynb_checkpoints/
+pan2021/__pycache__/
+.idea/
+__pycache__/
